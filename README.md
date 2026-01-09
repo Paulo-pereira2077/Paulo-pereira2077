@@ -1,12 +1,10 @@
 ## Bem-vindo(a) ao perfil do Paulo 😁
 
- <p align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Paulo-pereira2077&show_icons=true&theme=tokyonight&cache_seconds=86400)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Paulo-pereira2077&layout=compact&langs_count=6&theme=tokyonight&cache_seconds=86400)
-
-</p>
+<div>
+   <a href="https://github.com/Paulo-pereira2077">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Paulo-pereira2077&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paulo-pereira2077&layout=compact&langs_count=6&theme=tokyonight"/>
+</div>
 
     
 <div style="display: inline_block"><br>
