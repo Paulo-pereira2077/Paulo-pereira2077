@@ -2,12 +2,11 @@
 
  <p align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Paulo-pereira2077&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Paulo-pereira2077&show_icons=true&theme=tokyonight&cache_seconds=86400)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Paulo-pereira2077&layout=compact&langs_count=6&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Paulo-pereira2077&layout=compact&langs_count=6&theme=tokyonight&cache_seconds=86400)
 
 </p>
-
 
     
 <div style="display: inline_block"><br>
