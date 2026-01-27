@@ -18,6 +18,9 @@
   <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
   <img align="center" alt="Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg">
   <img align="center" alt="Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+  <img align="center" alt="GCP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg">
+  <img align="center" alt="BigQuery" height="30" width="40" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/googlebigquery.svg">
+  <img align="center" alt="Colab" height="30" width="40" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/googlecolab.svg">
   
 </div>
  
