@@ -10,14 +10,14 @@
     
 <br>
 
-<p align="center"><b>💻 Backend & Linguagens</b></p>
-<p align="center"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/> <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/> <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"/></p>
+<p align="left"><b>💻 Backend & Linguagens</b></p>
+<p align="left"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/> <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/> <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"/></p>
 
-<p align="center"><b>🌐 Frontend</b></p>
-<p align="center"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/> <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/> <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/> <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"/> <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg"/></p>
+<p align="left"><b>🌐 Frontend</b></p>
+<p align="left"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/> <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/> <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/> <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"/> <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg"/></p>
 
-<p align="center"><b>☁️ Cloud & Outros</b></p>
-<p align="center"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg"/> <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/> <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"/> <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg"/></p>
+<p align="left"><b>☁️ Cloud & Outros</b></p>
+<p align="left"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg"/> <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/> <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"/> <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg"/></p>
  
 <br>
  
